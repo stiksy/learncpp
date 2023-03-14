@@ -1,6 +1,7 @@
 #include <iostream>
 
 using std::cout;
+using std::cin;
 
 int main() {
     cout << "Hello, World!" << '\n';
@@ -24,6 +25,10 @@ int main() {
 
     f = 9.0 / 5;
     cout << f << '\n';
+
+    cout << "Enter a number: ";
+    cin >> i;
+    cout << i * 2 << '\n';
 
     return 0;
 }
