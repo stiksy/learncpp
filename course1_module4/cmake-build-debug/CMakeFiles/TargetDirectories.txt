@@ -1,0 +1,3 @@
+/Users/fernando.marquardt/Projects/cpp/course1_module4/cmake-build-debug/CMakeFiles/course1_module4.dir
+/Users/fernando.marquardt/Projects/cpp/course1_module4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fernando.marquardt/Projects/cpp/course1_module4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
