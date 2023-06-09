@@ -9,7 +9,7 @@ int main() {
     Account a1;
     a1.Deposit(90);
     cout << "After depositing 90 balance is " << a1.GetBalance() << endl;
-    for (const auto& s: a1.Report()) {
+    for (auto s: a1.Report()) {
         cout << s << endl;
     }
     a1.Withdraw(50);
@@ -18,7 +18,7 @@ int main() {
     }
 
     cout << "after withdrawing 50 then 100" << endl;
-    for (const auto& s: a1.Report()) {
+    for (auto s: a1.Report()) {
         cout << s << endl;
     }
 
