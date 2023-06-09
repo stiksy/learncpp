@@ -3,15 +3,15 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader">{
-  &quot;useNewFormat&quot;: true
-}</component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="course1_module7" targetName="course1_module8" />
+      <config projectName="course1_module9" targetName="course1_module9" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -20,22 +20,23 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e436b656-c7e1-4151-90db-ccb3eb9a35c8" name="Changes" comment="">
+    <list default="true" id="19581096-c122-4fbd-91e3-e4588294dc07" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../.idea/cpp.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course1_module9/.idea/course1_module9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course1_module9/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course1_module9/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course1_module9/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course1_module9/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course1_module9/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../course1_module9/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/course1_module9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../course1_module7/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../course1_module7/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../course1_module7/cmake-build-debug/CMakeFiles/course1_module7.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../course1_module7/cmake-build-debug/CMakeFiles/course1_module7.dir/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../course1_module7/cmake-build-debug/course1_module7" beforeDir="false" afterPath="$PROJECT_DIR$/../course1_module7/cmake-build-debug/course1_module7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course1_module8/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course1_module8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../course1_module8/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,41 +58,34 @@
     <option name="majorVersion" value="2022" />
     <option name="minorVersion" value="3.3" />
   </component>
-  <component name="ProjectId" id="2Qy55uAGIgCAqJmTRjxnFBPDArm" />
+  <component name="ProjectId" id="2QyBTLpT0ylZa3JZJOlKG4HoLBS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/fernando.marquardt/Projects/cpp/course1_module8&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
-  </component>
+}]]></component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration name="course1_module8" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="course1_module8" TARGET_NAME="course1_module8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="course1_module8" RUN_TARGET_NAME="course1_module8">
+    <configuration name="course1_module9" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="course1_module9" TARGET_NAME="course1_module9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="course1_module9" RUN_TARGET_NAME="course1_module9">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -100,16 +94,27 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e436b656-c7e1-4151-90db-ccb3eb9a35c8" name="Changes" comment="" />
-      <created>1686312800319</created>
+      <changelist id="19581096-c122-4fbd-91e3-e4588294dc07" name="Changes" comment="" />
+      <created>1686315947066</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1686312800319</updated>
-      <workItem from="1686312801518" duration="1690000" />
+      <updated>1686315947066</updated>
+      <workItem from="1686315948266" duration="1175000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

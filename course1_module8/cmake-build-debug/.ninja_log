@@ -1,0 +1,10 @@
+# ninja log v5
+8	275	1686313224441580150	CMakeFiles/course1_module7.dir/main.cpp.o	5cb8de6b7ba33b8e
+295	350	1686313836840329397	course1_module8	25d09544ecadcca7
+8	323	1686312968533872222	CMakeFiles/course1_module7.dir/Account.cpp.o	67f773f200babeda
+8	284	1686312968494961146	CMakeFiles/course1_module7.dir/Transaction.cpp.o	ffc6c7aa793a358
+0	76	1686316976997368190	build.ninja	f3897fe4c4985d4f
+275	326	1686313224494083836	course1_module7	dce464a46a2d9d72
+0	242	1686313836729899640	CMakeFiles/course1_module8.dir/Transaction.cpp.o	7dced571cd9427a7
+0	279	1686313836766881087	CMakeFiles/course1_module8.dir/Account.cpp.o	c5e611cfae578740
+0	294	1686313836782807410	CMakeFiles/course1_module8.dir/main.cpp.o	fd675e25c001cbe8
